@@ -14,7 +14,7 @@ details:
   extra-text: "+44 (0)1476 56 56 56 salon@gerardhair.com"
 - title: Opening Times
   text: Sunday appointments and Bridal wedding services are available by request
-  extra-text: "Test"
+  extra-text: Test
 - title: Booking Policy
   text: Please arrive on time to ensure you receive your full service. If you are
     running late, we will do everything we can to accommodate you. If you are excessively
