@@ -9,8 +9,8 @@ collections:
     title: Uploads
     output: false
 url: https://www.gerardhair.com
-description: A Grantham-based hair studio, our staff have a wealth of experience enabling them to create an individual cut, tailored to your own unique style.
-  for print.
+description: A Grantham-based hair studio, our staff have a wealth of experience enabling
+  them to create an individual cut, tailored to your own unique style. for print.
 permalink: pretty
 exclude:
 - bower.json
@@ -38,8 +38,8 @@ email: salon@gerardhair.com
 phone-number: "+44(0)77 2573 7734"
 address-text: "Unit D  \n100 De Beauvoir Road  \nLondon N1 4EN"
 map: 
-google_site_verification:
-analytics:
+google_site_verification: 
+analytics: 
 logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%d %B %Y"
