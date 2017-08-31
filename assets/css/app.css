@@ -5778,7 +5778,7 @@ i, cite, em, var, address, dfn {
   transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
 
 .team img:hover {
-  filter: saturate(100%) brightness(90%); }
+  filter: saturate(80%) brightness(90%); }
 
 .team__team-member__name {
   font-family: "Mr Eaves Sans Regular", sans-serif;

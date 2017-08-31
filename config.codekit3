@@ -147,16 +147,6 @@
 		"oAP": "\/_site\/404.html",
 		"oF": 0
 		},
-	"\/_site\/assets\/css\/app.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/css\/app-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/_site\/assets\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 321,
@@ -376,18 +366,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/gallery\/index.html",
-		"oF": 0
-		},
-	"\/_site\/Gemfile": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/Gemfile",
-		"oF": 0
-		},
-	"\/_site\/Gemfile.lock": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/Gemfile.lock",
 		"oF": 0
 		},
 	"\/_site\/humans.txt": {
@@ -9220,6 +9198,12 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/info.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/info.html",
+		"oF": 0
+		},
 	"\/info.md": {
 		"cS": 0,
 		"eF": 1,
@@ -9228,10 +9212,10 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/info.md",
-		"oF": 1,
-		"oFM": 9,
+		"oA": 0,
+		"oAP": "\/info.html",
+		"oF": 0,
+		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
 		"pME": 1,
