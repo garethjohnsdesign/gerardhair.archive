@@ -5774,7 +5774,7 @@ i, cite, em, var, address, dfn {
       height: 30rem; } }
 
 .team img {
-  filter: saturate(0%) brightness(95%);
+  filter: saturate(0%) brightness(97.5%);
   transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
 
 .team img:hover {
