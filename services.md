@@ -9,11 +9,13 @@ section:
     day of the week.
   services:
   - title: Maintenance Cut and Finish
-    service: Service Test1
-    price: '001'
-  - title: Title-Test2
-    service: Service Test2
-    price: '002'
+    description:
+      title: Pricipal Designer
+      price: 54
+  - title: Maintenance Cut and Finish 2
+    description:
+      title: Pricipal Designer 2
+      price: 452
 - title: Colour
   text: At Gerard we only use professional, toxic free colour, devoid of Ammonia,
     PPDs, PTDs, Parabans, and Resorcinol. We are able to deliver beautiful blondes,
