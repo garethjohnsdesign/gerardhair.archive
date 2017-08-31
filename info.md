@@ -1,5 +1,6 @@
 ---
 title: Info / Contact
+position: 4
 image: "/assets/img/og-image.png"
 details:
 - title: Location
