@@ -16,6 +16,10 @@ section:
     description:
       title: Pricipal Designer 2
       price: 452
+  - title: 
+    description:
+      title: 
+      price: 
 - title: Colour
   text: At Gerard we only use professional, toxic free colour, devoid of Ammonia,
     PPDs, PTDs, Parabans, and Resorcinol. We are able to deliver beautiful blondes,
