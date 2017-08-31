@@ -8,7 +8,7 @@ section:
     to manage and style beyond the salon, so that your hair feels and looks good every
     day of the week.
   services:
-    "-title": Testing
+    title: Testing
     job-title: Designer
     price: 45
 - title: Colour
