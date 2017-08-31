@@ -7,6 +7,10 @@ section:
   text: At Gerard, our core focus is providing timeless, wearable cuts that are easy
     to manage and style beyond the salon, so that your hair feels and looks good every
     day of the week.
+  services:
+    "-title": Testing
+    job-title: Designer
+    price: 45
 - title: Colour
   text: At Gerard we only use professional, toxic free colour, devoid of Ammonia,
     PPDs, PTDs, Parabans, and Resorcinol. We are able to deliver beautiful blondes,
