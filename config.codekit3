@@ -9196,18 +9196,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/Gemfile": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/Gemfile",
-		"oF": 0
-		},
-	"\/Gemfile.lock": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/Gemfile.lock",
-		"oF": 0
-		},
 	"\/humans.txt": {
 		"ft": 8192,
 		"oA": 2,
