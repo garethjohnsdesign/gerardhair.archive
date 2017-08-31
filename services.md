@@ -1,6 +1,6 @@
 ---
 title: Services
-position: 5
+position: 1
 image: "/assets/img/og-image.png"
 section:
 - title: Cut + Style
