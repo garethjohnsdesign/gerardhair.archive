@@ -8,7 +8,7 @@ section:
     to manage and style beyond the salon, so that your hair feels and looks good every
     day of the week.
   services:
-  - title: Title-Test1
+  - title: Maintenance Cut and Finish
     service: Service Test1
     price: '001'
   - title: Title-Test2
