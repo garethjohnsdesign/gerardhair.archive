@@ -15,7 +15,12 @@ details:
 - title: Opening Times
   text: Sunday appointments and Bridal wedding services are available by request
   extra-text: |-
-    Monday – 9AM - 8PM     Tuesday – 9AM - 5.30PM     Wednesday – 9AM - 5.30PM     Thursday – 9AM - 8PM     Friday – 9AM - 7PM     Saturday – 9AM - 4.30PM
+    Monday – 9AM - 8PM
+    Tuesday – 9AM - 5.30PM
+    Wednesday – 9AM - 5.30PM
+    Thursday – 9AM - 8PM
+    Friday – 9AM - 7PM
+    Saturday – 9AM - 4.30PM
     Closed on Sunday’s
 - title: Booking Policy
   text: Please arrive on time to ensure you receive your full service. If you are
