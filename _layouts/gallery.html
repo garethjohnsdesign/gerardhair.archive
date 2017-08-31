@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<!-- Carousel -->
+<div class="grid-x grid-padding-x grid-padding-y gallery__carousel">
+	<div class="cell">
+    <div class="carousel">
+    {% for image in page.images %}
+      <img src="{{image}}">
+    {% endfor %}
+    </div>
+	</div>
+</div>
+<!-- End Carousel -->

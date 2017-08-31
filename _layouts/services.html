@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% for section in page.section %}
+  <div class="grid-x grid-padding-y align-center">
+    <div class="small-12 medium-8 cell text-center">
+      <h1>{{section.title}}</h1>
+      {{section.text | markdownify}}
+    </div>
+  </div>
+{% endfor %}
+
+{% for detail in page.details %}
+  <div class="grid-x grid-padding-y align-center">
+    <div class="small-12 medium-8 cell text-center">
+      <h3>{{detail.title}}</h3>
+      {{detail.text | markdownify}}
+      <h4>{% if detail.extra  %}{{detail.extra | markdownify}}{% endif %}</h4>
+    </div>
+  </div>
+{% endfor %}

@@ -1,0 +1,236 @@
+//  Table of Contents:
+//
+//   1. Mixins
+//   2. Global
+//   3. Typography
+//   4. Home
+
+// 1. Mixins
+// ---------
+
+@mixin links ($link, $hover) {
+  a {
+    color: $link;
+    &:hover {
+      color: $hover;   
+    }
+  }
+}
+
+@mixin link-underline($color, $size, $duration, $centered) {
+  color: $color;
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+  
+  &:before {
+    background-color: $color;
+    content: '';
+    height: $size;
+    position: absolute;
+    bottom: 0 - ($size/2);
+    transition: $duration;
+    width: 0;
+    @if $centered == 'true' {
+      left: 50%;
+      transform: translateX(-50%); 
+    }
+  }
+  
+  &:hover {
+    &:before {
+      width: 100%;
+    }
+  }
+}
+
+// 2. Global
+// ---------
+
+body {  
+  cursor: default;
+}
+
+body {
+  opacity: 1;
+  transition: $primary-transition;
+}
+
+body.fade-out {
+  opacity: 0;
+}
+
+svg {
+  max-width: 100%;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+::selection {
+  background: $primary-color;
+  color: $secondary-color;
+}
+
+:focus {
+  outline: 0;
+}
+
+[data-aos] {
+overflow: hidden;
+}
+
+// 3. Typography
+// -------------
+
+@mixin primiary-font {
+  font-family: $primary-font-family;
+}
+
+@mixin secondary-font {
+  font-family: $secondary-font-family;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+@mixin tertiary-font {
+  font-family: $tertiary-font-family;
+  text-transform: uppercase;
+  letter-spacing: 0.125rem;
+}
+
+a {
+  transition: $primary-transition;
+}
+
+h3, h4, h5, h6 {
+  @include tertiary-font;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+i, cite, em, var, address, dfn {
+  font-style: normal;
+}
+
+// X. Pages
+// ------
+
+.page {
+//   transition: $primary-transition;
+  @include breakpoint(small) {
+    padding: 1rem 1rem;
+  }
+  @include breakpoint(medium) {
+    padding: 2rem 2rem;
+  }
+  @include breakpoint(large) {
+    padding: 2rem 2.5rem;
+  }
+  @include breakpoint(xlarge) {
+    padding: 2rem 3rem;
+  }
+}
+
+// X. Navigation
+// ------
+
+.navigation {
+  background-color: $color--white;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  transition: $primary-transition;
+  border-bottom: 1px solid $color--medium-gray;
+}
+.navigation__logo {
+  font-family: $secondary-font-family;
+  text-transform: uppercase;
+  font-size: 2rem;
+  letter-spacing: 0.4em;
+}
+
+.navigation__menu {
+  @include tertiary-font
+  @include links ($color--medium-gray, $color--black)
+  letter-spacing: $letter-spacing--looser;
+}
+
+
+$menu-underline-from-center-border-thickness: 1px;
+
+.hover-underline-menu {
+  .menu {
+    .underline-from-center {
+      position: relative;
+
+      &::after {
+        content: "";
+        position: absolute;
+        top: calc(100% - #{$menu-underline-from-center-border-thickness});
+        border-bottom: $menu-underline-from-center-border-thickness solid $color--medium-gray;
+        left: 50%;
+        right: 50%;
+        transition: all 0.5s ease;
+      }
+
+      &:hover::after {
+        left: 0;
+        right: 0;
+        transition: all 0.5s ease;
+      }
+    }
+  }
+}
+
+
+// X. Home
+// ------
+
+.info__map {
+  @include breakpoint(small) {
+  height: 15rem;
+  }
+  @include breakpoint(medium) { 
+  height: 30rem;
+  }
+}
+
+// X. Team
+// ------
+
+.team img {
+  filter: saturate(0%) brightness(95%);
+  transition: $primary-transition;
+}
+    
+.team img:hover {
+  filter: saturate(100%) brightness(90%);
+}
+
+.team__team-member__name {
+  @include tertiary-font
+}
+
+.team__team-member__job-title {
+  color: $color--medium-gray;
+}
+
+// X. Footer
+// ---------
+
+footer {
+  @include tertiary-font
+}
+
+.footer__socials {
+  @include links ($color--medium-gray, $color--black)
+}
+
+.footer__links {
+  @include links ($color--medium-gray, $color--black)
+}
