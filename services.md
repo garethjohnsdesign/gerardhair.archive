@@ -8,9 +8,12 @@ section:
     to manage and style beyond the salon, so that your hair feels and looks good every
     day of the week.
   services:
-    title: Testing
-    job-title: Designer
-    price: 45
+  - title: Title-Test1
+    service: Service Test1
+    price: '001'
+  - title: Title-Test2
+    service: Service Test2
+    price: '002'
 - title: Colour
   text: At Gerard we only use professional, toxic free colour, devoid of Ammonia,
     PPDs, PTDs, Parabans, and Resorcinol. We are able to deliver beautiful blondes,
