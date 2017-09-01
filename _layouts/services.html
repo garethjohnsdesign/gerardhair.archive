@@ -7,13 +7,16 @@ layout: default
     <div class="small-12 medium-8 cell text-center">
       <h1>{{section.title}}</h1>
       {{section.text | markdownify}}
-      <div class="grid-x grid-padding-y align-center small-up-1 medium-up-3 large-up-4">
+      <div class="grid-x grid-padding-y align-center small-up-1 medium-up-3 large-up-5">
       {% for service in section.services %}
       <div class="cell text-center">
-        <div class="service-title">{{service.title}}</div>
-        {% for description in service.description %}
-        test
+        <h3>{{service.title}}</h3>
+        
+        {% for detail in service.list %}
+        <div>{{detail.name}}</div>
+        <div>{{detail.price}}</div>
         {% endfor %}
+        
       </div>
       {% endfor %}
       </div>

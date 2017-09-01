@@ -8,10 +8,66 @@ section:
     to manage and style beyond the salon, so that your hair feels and looks good every
     day of the week.
   services:
-  - title: Maintenance Cut and Finish
+  - title: Cut and Finish
     list:
-    - name: Designer
+    - name: Principal Designer
       price: 10
+    - name: Creative Designer
+      price: 20
+    - name: Senior Hair Designer
+      price: 10
+    - name: Hair Designer
+      price: 20
+    - name: Hair Stylist
+      price: 20
+  - title: Redesign
+    list:
+    - name: Principal Designer
+      price: 10
+    - name: Creative Designer
+      price: 20
+    - name: Senior Hair Designer
+      price: 10
+    - name: Hair Designer
+      price: 20
+    - name: Hair Stylist
+      price: 20
+  - title: Redesign
+    list:
+    - name: Principal Designer
+      price: 10
+    - name: Creative Designer
+      price: 20
+    - name: Senior Hair Designer
+      price: 10
+    - name: Hair Designer
+      price: 20
+    - name: Hair Stylist
+      price: 20
+  - title: Redesign
+    list:
+    - name: Principal Designer
+      price: 10
+    - name: Creative Designer
+      price: 20
+    - name: Senior Hair Designer
+      price: 10
+    - name: Hair Designer
+      price: 20
+    - name: Hair Stylist
+      price: 20
+  - title: Redesign
+    list:
+    - name: Principal Designer
+      price: 10
+    - name: Creative Designer
+      price: 20
+    - name: Senior Hair Designer
+      price: 10
+    - name: Hair Designer
+      price: 20
+    - name: Hair Stylist
+      price: 20
 - title: Colour
   text: At Gerard we only use professional, toxic free colour, devoid of Ammonia,
     PPDs, PTDs, Parabans, and Resorcinol. We are able to deliver beautiful blondes,
