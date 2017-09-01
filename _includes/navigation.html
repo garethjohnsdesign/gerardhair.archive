@@ -5,13 +5,14 @@
 
 {% for entry in site.data.navigation %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 <!-- Navigation -->
-<div class="grid-x align-center navigation__logo">
+<div class="grid-x align-center navigation__logo text-center">
   <div class="shrink cell">
     <a href="/">{{site.title}}</a>
+    <div><h6><a href="/">Est. 1977</a></h6></div>
   </div>
 </div>
   
-<div class="grid-x align-center">
+<div class="grid-x align-center navigation">
   <div class="shrink cell show-for-medium navigation__menu">
     <nav class="hover-underline-menu" data-menu-underline-from-center>
     <ul class="dropdown menu" data-dropdown-menu>

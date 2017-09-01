@@ -27,6 +27,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
+- jekyll-mentions
 markdown: kramdown
 kramdown:
   input: GFM
@@ -45,10 +46,9 @@ per_page: 12
 date_format: "%d %B %Y"
 future: true
 social:
-  facebook: https://www.facebook.com/
-  instagram: https://www.instagram.com/
-  twitter: https://www.twitter.com/
-  linkedin: https://www.linkedin.com/in/
+  facebook: https://www.facebook.com/gerard.hair
+  instagram: https://www.instagram.com/gerardhairdressing/
+  twitter: https://twitter.com/gerardhair
 compress_html:
   comments:
   - "<!-- "

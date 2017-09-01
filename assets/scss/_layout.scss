@@ -114,6 +114,14 @@ h3, h4, h5, h6 {
   @include tertiary-font;
 }
 
+h1 {
+  line-height: 1.1;
+}
+
+h4 {
+  color: $color--medium-gray;
+}
+
 .uppercase {
   text-transform: uppercase;
 }
@@ -144,13 +152,53 @@ i, cite, em, var, address, dfn {
 // X. Navigation
 // ------
 
+/*
 .navigation {
-  background-color: $color--white;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  transition: $primary-transition;
-  border-bottom: 1px solid $color--medium-gray;
+  z-index: 3;
 }
+*/
+
+.navigation__small {
+  z-index: 3;
+}
+
+.navigation--mobile {
+  z-index: 1;
+  position: fixed;
+  background: $color--white;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%; 
+  opacity: 0;
+  transition: $primary-transition;
+  visibility: hidden;
+  font-family: $header-font-family;
+  font-size: 1.5rem;
+
+  &.open {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  a {
+    color: $color--black;
+    padding: 1rem 0rem;
+  }
+  
+  a:hover {
+    color: $color--medium-gray;
+  }
+  
+  .menu .active>a {
+    color: black;
+  }
+  
+  .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+    background-color: $color--white;
+  } 
+}
+
 .navigation__logo {
   font-family: $secondary-font-family;
   text-transform: uppercase;
@@ -204,6 +252,7 @@ $menu-underline-from-center-border-thickness: 1px;
   }
 }
 
+
 // X. Team
 // ------
 
@@ -227,6 +276,17 @@ $menu-underline-from-center-border-thickness: 1px;
 // X. Footer
 // ---------
 
+.service__detail {
+  padding-bottom: 1rem;
+}
+
+.service__detail__price {
+  color: $color--medium-gray;
+}
+
+// X. Footer
+// ---------
+
 footer {
   @include tertiary-font
 }
@@ -237,4 +297,44 @@ footer {
 
 .footer__links {
   @include links ($color--medium-gray, $color--black)
+}
+
+.overlap-up-one {
+  margin-top: -10vh;
+}
+
+.overlap-up-two {
+  margin-top: -20vh;
+}
+
+.overlap-up-three {
+  margin-top: -30vh;
+}
+
+.overlap-up-four {
+  margin-top: -40vh;
+}
+
+.overlap-up-five {
+  margin-top: -50vh;
+}
+
+.overlap-down-one {
+  margin-top: 10vh;
+}
+
+.overlap-down-two {
+  margin-top: 20vh;
+}
+
+.overlap-down-three {
+  margin-top: 30vh;
+}
+
+.overlap-down-four {
+  margin-top: 40vh;
+}
+
+.input-group-button {
+  margin-left: 1rem;
 }
