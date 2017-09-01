@@ -11,8 +11,9 @@ layout: default
       {% for service in section.services %}
       <div class="cell text-center">
         <div class="service-title">{{service.title}}</div>
-        <div class="service-title">{{service.service}}</div>
-        <div class="service-title">{{service.price}}</div>
+        {% for description in service.description %}
+        test
+        {% endfor %}
       </div>
       {% endfor %}
       </div>

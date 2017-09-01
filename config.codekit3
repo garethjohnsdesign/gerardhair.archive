@@ -408,6 +408,12 @@
 		"oAP": "\/_site\/robots.txt",
 		"oF": 0
 		},
+	"\/_site\/services.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/services.html",
+		"oF": 0
+		},
 	"\/_site\/services\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -9288,6 +9294,12 @@
 		"oAP": "\/robots.txt",
 		"oF": 0
 		},
+	"\/services.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/services.html",
+		"oF": 0
+		},
 	"\/services.md": {
 		"cS": 0,
 		"eF": 1,
@@ -9296,10 +9308,10 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/services.md",
-		"oF": 1,
-		"oFM": 9,
+		"oA": 0,
+		"oAP": "\/services.html",
+		"oF": 0,
+		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
 		"pME": 1,

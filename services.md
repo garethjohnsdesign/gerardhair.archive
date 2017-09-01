@@ -12,7 +12,7 @@ section:
     description:
       title: Pricipal Designer
       price: 54
-  - title: Maintenance Cut and Finish 2
+  - title: Maintenance Cut and Finish Two
     description:
       title: Pricipal Designer 2
       price: 452
