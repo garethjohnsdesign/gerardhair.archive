@@ -17,7 +17,7 @@ section:
     - name: Senior Hair Designer
       price: 40
     - name: Hair Designer
-      price: 32.50
+      price: 32.5
     - name: Hair Stylist
       price: 28.5
   - title: Redesign
@@ -39,7 +39,7 @@ section:
     - name: Creative Designer
       price: 29
     - name: Senior Hair Designer
-      price: 27.50
+      price: 27.5
     - name: Hair Designer
       price: 22.5
     - name: Hair Stylist
