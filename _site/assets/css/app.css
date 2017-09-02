@@ -571,28 +571,28 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
     transform: translate(0, 0); }
 
 [data-aos='fade-up'] {
-  transform: translate(0, 200px); }
+  transform: translate(0, 2rem); }
 
 [data-aos='fade-down'] {
-  transform: translate(0, -200px); }
+  transform: translate(0, -2rem); }
 
 [data-aos='fade-right'] {
-  transform: translate(-200px, 0); }
+  transform: translate(-2rem, 0); }
 
 [data-aos='fade-left'] {
-  transform: translate(200px, 0); }
+  transform: translate(2rem, 0); }
 
 [data-aos='fade-up-right'] {
-  transform: translate(-200px, 200px); }
+  transform: translate(-2rem, 2rem); }
 
 [data-aos='fade-up-left'] {
-  transform: translate(200px, 200px); }
+  transform: translate(2rem, 2rem); }
 
 [data-aos='fade-down-right'] {
-  transform: translate(-200px, -200px); }
+  transform: translate(-2rem, -2rem); }
 
 [data-aos='fade-down-left'] {
-  transform: translate(200px, -200px); }
+  transform: translate(2rem, -2rem); }
 
 /**
  * Zoom animations:
@@ -610,31 +610,31 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
   transform: scale(0.6); }
 
 [data-aos='zoom-in-up'] {
-  transform: translate(0, 200px) scale(0.6); }
+  transform: translate(0, 2rem) scale(0.6); }
 
 [data-aos='zoom-in-down'] {
-  transform: translate(0, -200px) scale(0.6); }
+  transform: translate(0, -2rem) scale(0.6); }
 
 [data-aos='zoom-in-right'] {
-  transform: translate(-200px, 0) scale(0.6); }
+  transform: translate(-2rem, 0) scale(0.6); }
 
 [data-aos='zoom-in-left'] {
-  transform: translate(200px, 0) scale(0.6); }
+  transform: translate(2rem, 0) scale(0.6); }
 
 [data-aos='zoom-out'] {
   transform: scale(1.2); }
 
 [data-aos='zoom-out-up'] {
-  transform: translate(0, 200px) scale(1.2); }
+  transform: translate(0, 2rem) scale(1.2); }
 
 [data-aos='zoom-out-down'] {
-  transform: translate(0, -200px) scale(1.2); }
+  transform: translate(0, -2rem) scale(1.2); }
 
 [data-aos='zoom-out-right'] {
-  transform: translate(-200px, 0) scale(1.2); }
+  transform: translate(-2rem, 0) scale(1.2); }
 
 [data-aos='zoom-out-left'] {
-  transform: translate(200px, 0) scale(1.2); }
+  transform: translate(2rem, 0) scale(1.2); }
 
 /**
  * Slide animations
