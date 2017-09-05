@@ -14,12 +14,12 @@ details:
   text: Please get in touch if you have any questions by calling or emailing. We will
     endeavour to get back to you as soon as possible. Appointments can be made via
     our online booking tool or phone us during business hours.
-  extra-text: "+44 (0)1476 56 56 56    \nsalon@gerardhair.com   "
+  extra-text: "### +44 (0)1476 56 56 56    \n### salon@gerardhair.com   "
 - title: Opening Times
   text: Sunday appointments and Bridal wedding services are available by request
-  extra-text: "Monday – 9AM - 8PM  \nTuesday – 9AM - 5.30PM  \nWednesday – 9AM - 5.30PM
-    \ \nThursday – 9AM - 8PM  \nFriday – 9AM - 7PM  \nSaturday – 9AM - 4.30PM  \nClosed
-    on Sunday’s"
+  extra-text: "### Monday – 9AM - 8PM  \n### Tuesday – 9AM - 5.30PM  \n### Wednesday
+    – 9AM - 5.30PM  \n### Thursday – 9AM - 8PM  \n### Friday – 9AM - 7PM  \n### Saturday
+    – 9AM - 4.30PM  \nClosed on Sunday’s"
 - title: Booking Policy
   text: Please arrive on time to ensure you receive your full service. If you are
     running late, we will do everything we can to accommodate you. If you are excessively
