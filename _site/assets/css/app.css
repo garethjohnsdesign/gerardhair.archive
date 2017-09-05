@@ -5738,11 +5738,6 @@ i, cite, em, var, address, dfn {
     .page {
       padding: 2rem 3rem; } }
 
-/*
-.navigation {
-  z-index: 3;
-}
-*/
 .navigation__small {
   z-index: 3; }
 
@@ -5802,6 +5797,13 @@ i, cite, em, var, address, dfn {
     left: 0;
     right: 0;
     transition: all 0.5s ease; }
+
+.home img {
+  filter: saturate(90%) brightness(97.5%);
+  transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
+
+.home img:hover {
+  filter: saturate(80%) brightness(90%); }
 
 .info__map {
   height: 15rem; }

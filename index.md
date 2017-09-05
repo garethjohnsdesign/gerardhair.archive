@@ -3,7 +3,7 @@ title: Gerard Hair
 position: 0
 image: "/assets/img/og-image.png"
 images:
-- "/uploads/ilya-yakover-317430.jpg"
+- "/uploads/home-01.jpg"
 layout: home
 ---
 

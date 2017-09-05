@@ -153,16 +153,6 @@
 		"oAP": "\/_site\/404.html",
 		"oF": 0
 		},
-	"\/_site\/assets\/css\/app.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/css\/app-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/_site\/assets\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 321,
@@ -304,27 +294,6 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"\/_site\/assets\/img\/logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/img\/logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/assets\/img\/og-image.png": {
-		"ft": 32768,
-		"iS": 6140,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/og-image.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
 		},
 	"\/_site\/assets\/js\/app.js": {
 		"ft": 64,
@@ -468,26 +437,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_site\/uploads\/Bob_shoot_0011308.jpg": {
-		"ft": 16384,
-		"iS": 107638,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/Bob_shoot_0011308.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/brooke-cagle-32429.jpg": {
-		"ft": 16384,
-		"iS": 1055354,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/brooke-cagle-32429.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_site\/uploads\/charlie-hey.jpg": {
 		"ft": 16384,
 		"iS": 25160,
@@ -528,11 +477,121 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_site\/uploads\/gallery-01.jpg": {
+	"\/_site\/uploads\/gallery-02.jpg": {
 		"ft": 16384,
-		"iS": 137739,
+		"iS": 144015,
 		"oA": 0,
-		"oAP": "\/_site\/uploads\/gallery-01.jpg",
+		"oAP": "\/_site\/uploads\/gallery-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-03.jpg": {
+		"ft": 16384,
+		"iS": 119269,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-04.jpg": {
+		"ft": 16384,
+		"iS": 257504,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-05.jpg": {
+		"ft": 16384,
+		"iS": 173029,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-06.jpg": {
+		"ft": 16384,
+		"iS": 203880,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-06.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-07.jpg": {
+		"ft": 16384,
+		"iS": 129520,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-07.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-08.jpg": {
+		"ft": 16384,
+		"iS": 138597,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-08.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-09.jpg": {
+		"ft": 16384,
+		"iS": 103975,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-09.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-10.jpg": {
+		"ft": 16384,
+		"iS": 162809,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-11.jpg": {
+		"ft": 16384,
+		"iS": 167723,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-12.jpg": {
+		"ft": 16384,
+		"iS": 144504,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/home-01.jpg": {
+		"ft": 16384,
+		"iS": 541825,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/home-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -548,11 +607,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_site\/uploads\/ilya-yakover-317430.jpg": {
+	"\/_site\/uploads\/home-03.jpg": {
 		"ft": 16384,
-		"iS": 1615413,
+		"iS": 350061,
 		"oA": 0,
-		"oAP": "\/_site\/uploads\/ilya-yakover-317430.jpg",
+		"oAP": "\/_site\/uploads\/home-03.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -608,16 +667,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_site\/uploads\/tim-mossholder-285543.jpg": {
-		"ft": 16384,
-		"iS": 3016591,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/tim-mossholder-285543.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_site\/uploads\/tony-corsten.jpg": {
 		"ft": 16384,
 		"iS": 24698,
@@ -653,26 +702,6 @@
 		"iS": 44548,
 		"oA": 0,
 		"oAP": "\/_uploads\/alisha-wilson.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/Bob_shoot_0011308.jpg": {
-		"ft": 16384,
-		"iS": 107638,
-		"oA": 0,
-		"oAP": "\/_uploads\/Bob_shoot_0011308.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/brooke-cagle-32429.jpg": {
-		"ft": 16384,
-		"iS": 1055354,
-		"oA": 0,
-		"oAP": "\/_uploads\/brooke-cagle-32429.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -718,11 +747,111 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/gallery-01.jpg": {
+	"\/_uploads\/gallery-02.jpg": {
 		"ft": 16384,
-		"iS": 137739,
+		"iS": 144015,
 		"oA": 0,
-		"oAP": "\/_uploads\/gallery-01.jpg",
+		"oAP": "\/_uploads\/gallery-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/gallery-03.jpg": {
+		"ft": 16384,
+		"iS": 119269,
+		"oA": 0,
+		"oAP": "\/_uploads\/gallery-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/gallery-04.jpg": {
+		"ft": 16384,
+		"iS": 257504,
+		"oA": 0,
+		"oAP": "\/_uploads\/gallery-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/gallery-05.jpg": {
+		"ft": 16384,
+		"iS": 173029,
+		"oA": 0,
+		"oAP": "\/_uploads\/gallery-05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/gallery-06.jpg": {
+		"ft": 16384,
+		"iS": 203880,
+		"oA": 0,
+		"oAP": "\/_uploads\/gallery-06.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/gallery-07.jpg": {
+		"ft": 16384,
+		"iS": 129520,
+		"oA": 0,
+		"oAP": "\/_uploads\/gallery-07.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/gallery-08.jpg": {
+		"ft": 16384,
+		"iS": 138597,
+		"oA": 0,
+		"oAP": "\/_uploads\/gallery-08.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/gallery-09.jpg": {
+		"ft": 16384,
+		"iS": 103975,
+		"oA": 0,
+		"oAP": "\/_uploads\/gallery-09.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/gallery-10.jpg": {
+		"ft": 16384,
+		"iS": 162809,
+		"oA": 0,
+		"oAP": "\/_uploads\/gallery-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/gallery-11.jpg": {
+		"ft": 16384,
+		"iS": 167723,
+		"oA": 0,
+		"oAP": "\/_uploads\/gallery-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/gallery-12.jpg": {
+		"ft": 16384,
+		"iS": 144504,
+		"oA": 0,
+		"oAP": "\/_uploads\/gallery-12.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -753,16 +882,6 @@
 		"iS": 350061,
 		"oA": 0,
 		"oAP": "\/_uploads\/home-03.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/ilya-yakover-317430.jpg": {
-		"ft": 16384,
-		"iS": 1615413,
-		"oA": 0,
-		"oAP": "\/_uploads\/ilya-yakover-317430.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -813,16 +932,6 @@
 		"iS": 33934,
 		"oA": 0,
 		"oAP": "\/_uploads\/sophie-smith.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/tim-mossholder-285543.jpg": {
-		"ft": 16384,
-		"iS": 3016591,
-		"oA": 0,
-		"oAP": "\/_uploads\/tim-mossholder-285543.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -985,16 +1094,6 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/assets\/icons\/symbol-defs.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/assets\/img\/logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/img\/logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,

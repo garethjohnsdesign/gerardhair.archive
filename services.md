@@ -11,63 +11,63 @@ section:
   - title: Cut and Finish
     list:
     - name: Principal Designer
-      price: 45
+      price: £45
     - name: Creative Designer
-      price: 43
+      price: £43
     - name: Senior Hair Designer
-      price: 40
+      price: £40
     - name: Hair Designer
-      price: 32.5
+      price: £32.5
     - name: Hair Stylist
-      price: 28.5
+      price: £28.5
   - title: Redesign
     list:
     - name: Principal Designer
-      price: 52
+      price: £52
     - name: Creative Designer
-      price: 50
+      price: £50
     - name: Senior Hair Designer
-      price: 47
+      price: £47
     - name: Hair Designer
-      price: 40
+      price: £40
     - name: Hair Stylist
-      price: 35
+      price: £35
   - title: Wet Cut
     list:
     - name: Principal Designer
-      price: 30.5
+      price: £30.5
     - name: Creative Designer
-      price: 29
+      price: £29
     - name: Senior Hair Designer
-      price: 27.5
+      price: £27.5
     - name: Hair Designer
-      price: 22.5
+      price: £22.5
     - name: Hair Stylist
-      price: 19
+      price: £19
   - title: Dry Cut and Gents
     list:
     - name: Principal Designer
-      price: 26
+      price: £26
     - name: Creative Designer
-      price: 24.5
+      price: £24.5
     - name: Senior Hair Designer
-      price: 23
+      price: £23
     - name: Hair Designer
-      price: 19
+      price: £19
     - name: Hair Stylist
-      price: 17
+      price: £17
   - title: Finish
     list:
     - name: Principal Designer
-      price: Short 22 / Long 26.5
+      price: Short £22 / Long £26.5
     - name: Creative Designer
-      price: Short 21 / Long 25
+      price: Short £21 / Long £25
     - name: Senior Hair Designer
-      price: Short 20 / Long 23.5
+      price: Short £20 / Long £23.5
     - name: Hair Designer
-      price: Short 19 / Long 21
+      price: Short £19 / Long £21
     - name: Hair Stylist
-      price: Short 16 / Long 18.5
+      price: Short £16 / Long £18.5
 - title: Colour
   text: At Gerard we only use professional, toxic free colour, devoid of Ammonia,
     PPDs, PTDs, Parabans, and Resorcinol. We are able to deliver beautiful blondes,
@@ -78,31 +78,31 @@ section:
   - title: Colour
     list:
     - name: Temporary Colour
-      price: From 36
+      price: From £36
   - title: Permanent Colour
     list:
     - name: Full Head
-      price: 53
+      price: £53
     - name: Retouch
-      price: 40
+      price: £40
     - name: Creative Colour
-      price: From 65
+      price: From £65
     - name: Correction
-      price: From 100
+      price: From £100
   - title: Highlights / Foil / Wrap
     list:
     - name: Parting
-      price: 30
+      price: £30
     - name: T. Section
-      price: 40
+      price: £40
     - name: Half Head
-      price: 46
+      price: £46
     - name: Full Head
-      price: 64
+      price: £64
     - name: Toner
-      price: 10
+      price: £10
     - name: Goldwell Bond Pro
-      price: 15
+      price: £15
 - title: Treatments
   text: In the salon and as part of our retail offering, we use and recommend products
     and gentle styling methods that care for and nourish your hair. This ensures your
@@ -114,19 +114,19 @@ section:
   - title: Permanent Wave
     list:
     - name: Luxury Wave
-      price: 50
+      price: £50
   - title: Keratin Treatment
     list:
     - name: Long Hair
-      price: From 175
+      price: From £175
     - name: Short Hair
-      price: From 152
+      price: From £152
     - name: Olaplex Treatment
-      price: 30
+      price: £30
   - title: Long Hairdressing
     list:
     - name: Long Hairdressing
-      price: From 45
+      price: From £45
 details:
 - title: Booking Policy
   text: Please arrive on time to ensure you receive your full service. If you are

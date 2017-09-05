@@ -152,12 +152,6 @@ i, cite, em, var, address, dfn {
 // X. Navigation
 // ------
 
-/*
-.navigation {
-  z-index: 3;
-}
-*/
-
 .navigation__small {
   z-index: 3;
 }
@@ -239,6 +233,17 @@ $menu-underline-from-center-border-thickness: 1px;
   }
 }
 
+// X. Home
+// ------
+
+.home img {
+  filter: saturate(90%) brightness(97.5%);
+  transition: $primary-transition;
+}
+    
+.home img:hover {
+  filter: saturate(80%) brightness(90%);
+}
 
 // X. Home
 // ------

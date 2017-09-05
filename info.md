@@ -7,18 +7,18 @@ details:
   text: You can find Gerard on the corner of North Street, overlooked by the spire
     of St Wulframs Church. We are located a few minutes walk from the market center.
   extra-text: |-
-    ### 3 North Street, Grantham
+    #### 3 North Street, Grantham
 
-    ### Lincolnshire NG31 6NU
+    #### Lincolnshire NG31 6NU
 - title: Contact
   text: Please get in touch if you have any questions by calling or emailing. We will
     endeavour to get back to you as soon as possible. Appointments can be made via
     our online booking tool or phone us during business hours.
-  extra-text: "### +44 (0)1476 56 56 56    \n### salon@gerardhair.com   "
+  extra-text: "#### +44 (0)1476 56 56 56    \n#### salon@gerardhair.com   "
 - title: Opening Times
   text: Sunday appointments and Bridal wedding services are available by request
-  extra-text: "### Monday – 9AM - 8PM  \n### Tuesday – 9AM - 5.30PM  \n### Wednesday
-    – 9AM - 5.30PM  \n### Thursday – 9AM - 8PM  \n### Friday – 9AM - 7PM  \n### Saturday
+  extra-text: "#### Monday – 9AM - 8PM  \n#### Tuesday – 9AM - 5.30PM  \n#### Wednesday
+    – 9AM - 5.30PM  \n#### Thursday – 9AM - 8PM  \n#### Friday – 9AM - 7PM  \n#### Saturday
     – 9AM - 4.30PM  \nClosed on Sunday’s"
 - title: Booking Policy
   text: Please arrive on time to ensure you receive your full service. If you are
