@@ -11,51 +11,51 @@ section:
   - title: Cut and Finish
     list:
     - name: Principal Designer
-      price: £45
+      price: "£45"
     - name: Creative Designer
-      price: £43
+      price: "£43"
     - name: Senior Hair Designer
-      price: £40
+      price: "£40"
     - name: Hair Designer
-      price: £32.5
+      price: "£32.5"
     - name: Hair Stylist
-      price: £28.5
+      price: "£28.5"
   - title: Redesign
     list:
     - name: Principal Designer
-      price: £52
+      price: "£52"
     - name: Creative Designer
-      price: £50
+      price: "£50"
     - name: Senior Hair Designer
-      price: £47
+      price: "£47"
     - name: Hair Designer
-      price: £40
+      price: "£40"
     - name: Hair Stylist
-      price: £35
+      price: "£35"
   - title: Wet Cut
     list:
     - name: Principal Designer
-      price: £30.5
+      price: "£30.5"
     - name: Creative Designer
-      price: £29
+      price: "£29"
     - name: Senior Hair Designer
-      price: £27.5
+      price: "£27.5"
     - name: Hair Designer
-      price: £22.5
+      price: "£22.5"
     - name: Hair Stylist
-      price: £19
+      price: "£19"
   - title: Dry Cut and Gents
     list:
     - name: Principal Designer
-      price: £26
+      price: "£26"
     - name: Creative Designer
-      price: £24.5
+      price: "£24.5"
     - name: Senior Hair Designer
-      price: £23
+      price: "£23"
     - name: Hair Designer
-      price: £19
+      price: "£19"
     - name: Hair Stylist
-      price: £17
+      price: "£17"
   - title: Finish
     list:
     - name: Principal Designer
@@ -82,9 +82,9 @@ section:
   - title: Permanent Colour
     list:
     - name: Full Head
-      price: £53
+      price: "£53"
     - name: Retouch
-      price: £40
+      price: "£40"
     - name: Creative Colour
       price: From £65
     - name: Correction
@@ -92,17 +92,17 @@ section:
   - title: Highlights / Foil / Wrap
     list:
     - name: Parting
-      price: £30
+      price: "£30"
     - name: T. Section
-      price: £40
+      price: "£40"
     - name: Half Head
-      price: £46
+      price: "£46"
     - name: Full Head
-      price: £64
+      price: "£64"
     - name: Toner
-      price: £10
+      price: "£10"
     - name: Goldwell Bond Pro
-      price: £15
+      price: "£15"
 - title: Treatments
   text: In the salon and as part of our retail offering, we use and recommend products
     and gentle styling methods that care for and nourish your hair. This ensures your
@@ -114,7 +114,7 @@ section:
   - title: Permanent Wave
     list:
     - name: Luxury Wave
-      price: £50
+      price: "£50"
   - title: Keratin Treatment
     list:
     - name: Long Hair
@@ -122,7 +122,7 @@ section:
     - name: Short Hair
       price: From £152
     - name: Olaplex Treatment
-      price: £30
+      price: "£30"
   - title: Long Hairdressing
     list:
     - name: Long Hairdressing
