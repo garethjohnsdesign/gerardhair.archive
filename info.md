@@ -6,7 +6,10 @@ details:
 - title: Location
   text: You can find Gerard on the corner of North Street, overlooked by the spire
     of St Wulframs Church. We are located a few minutes walk from the market center.
-  extra-text: 3 North Street, Grantham Lincolnshire NG31 6NU
+  extra-text: |-
+    ### 3 North Street, Grantham
+
+    ### Lincolnshire NG31 6NU
 - title: Contact
   text: Please get in touch if you have any questions by calling or emailing. We will
     endeavour to get back to you as soon as possible. Appointments can be made via
