@@ -1,6 +1,6 @@
 ---
 title: Gallery
-position: 4
+position: 3
 image: "/assets/img/og-image.png"
 images:
 - "/uploads/gallery-01.jpg"

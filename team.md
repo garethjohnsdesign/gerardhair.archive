@@ -1,6 +1,6 @@
 ---
 title: Team
-position: 3
+position: 2
 image: "/assets/img/og-image.png"
 team:
 - name: Adam Chippendale

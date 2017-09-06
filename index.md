@@ -1,6 +1,6 @@
 ---
 title: Gerard Hair
-position: 1
+position: 0
 image: "/assets/img/og-image.png"
 images:
 - "/uploads/home-01.jpg"
