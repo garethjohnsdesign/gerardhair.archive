@@ -1,0 +1,57 @@
+---
+title: Gerard Hair
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: false
+url: https://www.gerardhair.com
+description: A Grantham-based hair studio, our staff have a wealth of experience enabling
+  them to create an individual cut, tailored to your own unique style. for print.
+permalink: pretty
+exclude:
+- bower.json
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+- assets/scss
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-mentions
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+colophon: http://garethjohnsdesign.com
+company: Gerard Hair
+email: salon@gerardhair.com
+phone-number: "+44(0)77 2573 7734"
+address-text: "Unit D  \n100 De Beauvoir Road  \nLondon N1 4EN"
+map: 
+google_site_verification: 
+analytics: 
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%d %B %Y"
+future: true
+social:
+  facebook: https://www.facebook.com/gerard.hair
+  instagram: https://www.instagram.com/gerardhairdressing/
+  twitter: https://twitter.com/gerardhair
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false

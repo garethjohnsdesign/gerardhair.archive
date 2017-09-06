@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<!-- Featured -->
+<div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3 large-up-4" data-aos="fade-up">
+{% for team-member in page.team %}
+  <div class="cell">
+    <div class="team__team-member text-center">
+      
+      <div class="grid-x grid-padding-y">
+      <div class="cell">
+      <img src="{{team-member.image}}" alt="{{act.title}}">
+      </div>
+      </div>
+      
+      <div class="grid-x grid-padding-y">
+      <div class="cell">
+      <div class="team__team-member__name">{{ team-member.name }}</div>
+      <div class="team__team-member__job-title">{{ team-member.job-title }}</div>
+      </div>
+      </div>
+      
+      
+    </div>
+  </div>
+{% endfor %}
+</div>
+<!-- End Featured -->

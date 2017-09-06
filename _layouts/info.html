@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<!-- Map -->
+<div class="grid-x grid-padding-y align-center" data-aos="fade-up">
+	<div class="small-12 medium-10 cell">
+  	<div class="info__map" id="gerard_canvas"></div>
+	</div>
+</div>
+<!-- End Map -->
+
+{% for detail in page.details %}
+  <div class="grid-x grid-padding-y align-center" data-aos="fade-up">
+    <div class="small-12 medium-8 cell text-center">
+      <h3>{{detail.title}}</h3>
+      {{detail.text | markdownify}}
+      <h4>{% if detail.extra-text  %}{{detail.extra-text | markdownify}}{% endif %}</h4>
+    </div>
+  </div>
+{% endfor %}
+
+{% include map-script.html %} 

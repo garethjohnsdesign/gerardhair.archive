@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+{% for section in page.section %}
+  <div class="grid-x grid-padding-y align-center">
+    <div class="small-12 medium-10 large-10 cell text-center">
+      
+      <div class="grid-x grid-padding-y align-center">
+        <div class="small-12 medium-10 large-10 cell text-center">
+        <h2>{{section.title}}</h2>
+        {{section.text | markdownify}}
+        </div>
+      </div>
+      
+      
+      <div class="grid-x grid-padding-y align-center small-up-1 medium-up-3 large-up-5">
+      {% for service in section.services %}
+      <div class="cell text-center">
+        <h4>{{service.title}}</h4>
+        
+        {% for detail in service.list %}
+        <div class="service__detail">
+        <div class="service__detail__name">{{detail.name}}</div>
+        <div class="service__detail__price">{{detail.price}}</div>
+        </div>
+        {% endfor %}
+        
+      </div>
+      {% endfor %}
+      </div>
+    </div>
+  </div>
+{% endfor %}
+
+<div class="grid-x grid-padding-y align-center">
+  <div class="small-12 medium-10 large-5 cell text-center">
+    <a href="http://www.kitomba.co.uk/bookings/gerardhair/" class="button large hollow">Book an Appointment</a>
+  </div>
+</div>
+
+
+{% for detail in page.details %}
+  <div class="grid-x grid-padding-y align-center">
+    <div class="small-12 medium-8 cell text-center">
+      <h3>{{detail.title}}</h3>
+      {{detail.text | markdownify}}
+      <h4>{% if detail.extra  %}{{detail.extra | markdownify}}{% endif %}</h4>
+    </div>
+  </div>
+{% endfor %}
