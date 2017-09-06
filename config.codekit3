@@ -135,6 +135,12 @@
 		"oAP": "\/_layouts\/missing.html",
 		"oF": 0
 		},
+	"\/_layouts\/page.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/page.html",
+		"oF": 0
+		},
 	"\/_layouts\/services.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -152,6 +158,16 @@
 		"oA": 2,
 		"oAP": "\/_site\/404.html",
 		"oF": 0
+		},
+	"\/_site\/assets\/css\/app.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/css\/app-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/_site\/assets\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
@@ -295,6 +311,27 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/_site\/assets\/img\/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/img\/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/assets\/img\/og-image.png": {
+		"ft": 32768,
+		"iS": 3525,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/og-image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_site\/assets\/js\/app.js": {
 		"ft": 64,
 		"ma": 0,
@@ -383,6 +420,12 @@
 		"oAP": "\/_site\/info\/index.html",
 		"oF": 0
 		},
+	"\/_site\/privacy\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/privacy\/index.html",
+		"oF": 0
+		},
 	"\/_site\/robots.txt": {
 		"ft": 8192,
 		"oA": 2,
@@ -405,6 +448,18 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/team\/index.html",
+		"oF": 0
+		},
+	"\/_site\/terms.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/terms.html",
+		"oF": 0
+		},
+	"\/_site\/terms\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/terms\/index.html",
 		"oF": 0
 		},
 	"\/_site\/uploads\/adam-chippendale.jpg": {
@@ -472,6 +527,16 @@
 		"iS": 37184,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/crystal-buffam.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-01.jpg": {
+		"ft": 16384,
+		"iS": 158832,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -742,6 +807,16 @@
 		"iS": 37184,
 		"oA": 0,
 		"oAP": "\/_uploads\/crystal-buffam.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/gallery-01.jpg": {
+		"ft": 16384,
+		"iS": 158832,
+		"oA": 0,
+		"oAP": "\/_uploads\/gallery-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1094,6 +1169,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/assets\/icons\/symbol-defs.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/img\/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/img\/logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -9407,10 +9492,10 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/index.md",
-		"oF": 1,
-		"oFM": 9,
+		"oA": 0,
+		"oAP": "\/index.html",
+		"oF": 0,
+		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
 		"pME": 1,
@@ -9425,10 +9510,10 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/info.md",
-		"oF": 1,
-		"oFM": 9,
+		"oA": 0,
+		"oAP": "\/info.html",
+		"oF": 0,
+		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
 		"pME": 1,
@@ -9460,6 +9545,24 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/privacy.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/privacy.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/README.md": {
 		"cS": 0,
@@ -9493,10 +9596,10 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/services.md",
-		"oF": 1,
-		"oFM": 9,
+		"oA": 0,
+		"oAP": "\/services.html",
+		"oF": 0,
+		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
 		"pME": 1,
@@ -9515,6 +9618,30 @@
 		"oAP": "\/team.md",
 		"oF": 1,
 		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/terms.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/terms.html",
+		"oF": 0
+		},
+	"\/terms.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/terms.html",
+		"oF": 0,
+		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
 		"pME": 1,
