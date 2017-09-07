@@ -10,7 +10,7 @@ team:
   image: "/uploads/alisha-wilson.jpg"
   job-title: Hair Stylist
 - name: Becky Hale
-  image:
+  image: 
   job-title: Principal Designer
 - name: Charlie Clare
   image: "/uploads/charlie-clare.jpg"
@@ -22,13 +22,13 @@ team:
   image: "/uploads/charlotte-taylor.jpg"
   job-title: Reception
 - name: Craig Fawkes
-  image:
+  image: 
   job-title: Principal Designer
 - name: Crystal Swann
   image: "/uploads/crystal-swann.jpg"
   job-title: Creative Designer
 - name: Helen Fawkes
-  image:
+  image: 
   job-title: Senior Hair Designer
 - name: Karolina Wojnowska
   image: "/uploads/karolina-wojnowska.jpg"
