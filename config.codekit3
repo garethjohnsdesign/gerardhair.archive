@@ -117,12 +117,6 @@
 		"oAP": "\/_layouts\/gallery.html",
 		"oF": 0
 		},
-	"\/_layouts\/home.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/home.html",
-		"oF": 0
-		},
 	"\/_layouts\/info.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -368,12 +362,6 @@
 		"oAP": "\/_site\/book\/index.html",
 		"oF": 0
 		},
-	"\/_site\/feed.xml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/feed.xml",
-		"oF": 0
-		},
 	"\/_site\/gallery\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -396,12 +384,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/humans.txt",
-		"oF": 0
-		},
-	"\/_site\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/index.html",
 		"oF": 0
 		},
 	"\/_site\/info\/index.html": {
@@ -9586,24 +9568,6 @@
 		"oAP": "\/services.html",
 		"oF": 0,
 		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/team.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/team.md",
-		"oF": 1,
-		"oFM": 9,
 		"oS": 0,
 		"pHT": 0,
 		"pME": 1,
