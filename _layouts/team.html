@@ -8,17 +8,30 @@ layout: default
   <div class="cell">
     <div class="team__team-member text-center">
       
-      <div class="grid-x grid-padding-y">
-      <div class="cell">
-      <img src="{{team-member.image}}" alt="{{act.title}}">
-      </div>
-      </div>
+      {% if team-member.image %}
+        <div class="grid-x grid-padding-y">
+        <div class="cell">
+          <img src="{{team-member.image}}" alt="{{team-member.name}}">
+        </div>
+        </div>
+      
+      {% else %}
       
       <div class="grid-x grid-padding-y">
-      <div class="cell">
-      <div class="team__team-member__name">{{ team-member.name }}</div>
-      <div class="team__team-member__job-title">{{ team-member.job-title }}</div>
+        <div class="cell">
+          <img src="/uploads/placeholder.png">
+        </div>
       </div>
+      
+      {% endif %}
+      
+      
+      
+      <div class="grid-x grid-padding-y">
+        <div class="cell">
+          <div class="team__team-member__name">{{ team-member.name }}</div>
+          <div class="team__team-member__job-title">{{ team-member.job-title }}</div>
+        </div>
       </div>
       
       
