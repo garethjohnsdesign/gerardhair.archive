@@ -5726,6 +5726,9 @@ h4 {
 i, cite, em, var, address, dfn {
   font-style: normal; }
 
+.menu .menu-text {
+  font-weight: normal; }
+
 .page {
   padding: 1rem 1rem; }
   @media print, screen and (min-width: 40em) {
