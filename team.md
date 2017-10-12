@@ -33,9 +33,6 @@ team:
 - name: Karolina Wojnowska
   image: "/uploads/karolina-wojnowska.jpg"
   job-title: Senior Hair Designer
-- name: Kirsty Parkes
-  image: "/uploads/kirsty-parkes.jpg"
-  job-title: Senior Hair Designer
 - name: Michelle Matsell
   image: "/uploads/michelle-matsell.jpg"
   job-title: Principal Designer
