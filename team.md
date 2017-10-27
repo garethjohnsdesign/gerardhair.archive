@@ -30,9 +30,6 @@ team:
 - name: Helen Fawkes
   image: 
   job-title: Senior Hair Designer
-- name: Karolina Wojnowska
-  image: "/uploads/karolina-wojnowska.jpg"
-  job-title: Senior Hair Designer
 - name: Michelle Matsell
   image: "/uploads/michelle-matsell.jpg"
   job-title: Principal Designer
