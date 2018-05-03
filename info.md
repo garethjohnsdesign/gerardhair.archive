@@ -17,9 +17,9 @@ details:
   extra-text: "#### +44 (0)1476 56 56 56    \n#### salon@gerardhair.com   "
 - title: Opening Times
   text: Sunday appointments and Bridal wedding services are available by request
-  extra-text: "#### Monday – 9AM - 8PM  \n#### Tuesday – 9AM - 5.30PM  \n#### Wednesday
-    – 9AM - 5.30PM  \n#### Thursday – 9AM - 8PM  \n#### Friday – 9AM - 7PM  \n####
-    Saturday – 9AM - 4.30PM  \nClosed on Sunday’s"
+  extra-text: "#### Monday – 9AM - 8PM  \n#### Tuesday – 9AM - 5PM  \n#### Wednesday
+    – 9AM - 5PM  \n#### Thursday – 9AM - 8PM  \n#### Friday – 9AM - 7PM  \n#### Saturday
+    – 9AM - 4.30PM  \nClosed on Sunday’s"
 - title: Booking Policy
   text: Please arrive on time to ensure you receive your full service. If you are
     running late, we will do everything we can to accommodate you. If you are excessively
