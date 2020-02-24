@@ -2,6 +2,7 @@ import $ from "jquery";
 import Foundation from 'foundation-sites';
 import AOS from 'aos';
 import mapboxgl from 'mapbox-gl';
+import Swiper from 'swiper';
 
 $(document).foundation();
 
@@ -23,12 +24,6 @@ window.addEventListener('load', AOS.refresh);
 });
 */
 
-$('.main-carousel').Flickity({
-  // options
-  cellAlign: 'left',
-  contain: true
-});
-
 /*
 $("[data-menu-underline-from-center] a").addClass("underline-from-center");
 
@@ -45,3 +40,11 @@ $(function() {
   });
 });
 */
+
+$(document).ready(function () {
+  //initialize swiper when document ready
+  var mySwiper = new Swiper ('.swiper-container', {
+    // Optional parameters
+    loop: true
+  })
+});

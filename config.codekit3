@@ -1767,19 +1767,6 @@
 		"oAP": "/assets/scss/.sass-cache/f84be1c154f1fb02ae8b176df386c616a39500c4/_to-list.scssc",
 		"oF": 0
 		},
-	"/assets/scss/_carousel.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/assets/css/_carousel.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 0
-		},
 	"/assets/scss/_colors.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -1870,6 +1857,16 @@
 		"oF": 0,
 		"oS": 3,
 		"uL": 0
+		},
+	"/assets/scss/_swiper.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/assets/scss/_swiper-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/assets/scss/_transitions.scss": {
 		"aP": 1,
@@ -2485,6 +2482,28 @@
 		"mi": 1,
 		"oA": 1,
 		"oAP": "/node_modules/mapbox-gl/dist/min/mapbox-gl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/node_modules/ssr-window/dist/ssr-window.esm.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/ssr-window/dist/min/ssr-window.esm-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/node_modules/swiper/js/swiper.esm.bundle.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/swiper/js/min/swiper.esm.bundle-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
