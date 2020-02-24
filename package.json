@@ -12,6 +12,7 @@
     "jquery": "^3.4.1",
     "mapbox-gl": "^1.8.0",
     "motion-ui": "^2.0.3",
+    "swiper": "^5.3.1",
     "what-input": "^5.2.6"
   }
 }
