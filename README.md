@@ -4,4 +4,4 @@ Website for Gerard Hair. Please go to [www.gerardhair.com](http://gerardhair.com
 
 * * *
 
-Copyright (c) 2017 Gareth Johns Art Direction + Design – info@garethjohnsdesign.com
+Copyright (c) 2020 Gareth Johns Art Direction + Design – info@garethjohnsdesign.com
