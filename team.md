@@ -6,9 +6,6 @@ team:
 - name: Adam Chippendale
   image: "/uploads/adam-chippendale.jpg"
   job-title: Principal Designer
-- name: Alisha Wilson
-  image: "/uploads/alisha-wilson.jpg"
-  job-title: Hair Stylist
 - name: Becky Hale
   image: 
   job-title: Principal Designer
@@ -20,7 +17,7 @@ team:
   job-title: Senior Hair Designer
 - name: Charlotte Taylor
   image: "/uploads/charlotte-taylor.jpg"
-  job-title: Reception
+  job-title: Front of House
 - name: Craig Fawkes
   image: 
   job-title: Principal Designer
@@ -36,9 +33,9 @@ team:
 - name: Sarah Gregory
   image: "/uploads/sarah-gregory.jpg"
   job-title: Creative Designer
-- name: Sophie Smith
+- name: Kirstie Smith
   image: "/uploads/sophie-smith.jpg"
-  job-title: Hair Designer
+  job-title: Creative Designer
 - name: Tony Corston
   image: "/uploads/tony-corston.jpg"
   job-title: Director
