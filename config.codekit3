@@ -723,7 +723,7 @@
 		"oA": 0,
 		"oAP": "/assets/js/min/app-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"/assets/js/min/app-min.js": {
@@ -2452,17 +2452,6 @@
 		"mi": 1,
 		"oA": 1,
 		"oAP": "/node_modules/aos/dist/min/aos-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/node_modules/flickity/js/index.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/node_modules/flickity/js/min/index-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
