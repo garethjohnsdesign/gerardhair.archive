@@ -1,3 +1,9 @@
+import $ from "jquery";
+import Foundation from 'foundation-sites';
+import AOS from 'aos';
+import mapboxgl from 'mapbox-gl';
+import Flickity from 'flickity';
+
 $(document).foundation();
 
 $('body').removeClass('fade-out');

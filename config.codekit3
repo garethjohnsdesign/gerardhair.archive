@@ -212,6 +212,12 @@
 		"oAP": "/_layouts/team.html",
 		"oF": 0
 		},
+	"/_site": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/_site",
+		"oF": 0
+		},
 	"/_uploads/adam-chippendale.jpg": {
 		"ft": 16384,
 		"iS": 38455,
@@ -710,7 +716,7 @@
 		"q": 100
 		},
 	"/assets/js/app.js": {
-		"bF": 0,
+		"bF": 4,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -754,7 +760,7 @@
 		"tS": 0
 		},
 	"/assets/scss/_carousel.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -763,11 +769,11 @@
 		"oA": 1,
 		"oAP": "/assets/css/_carousel.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/_colors.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -776,11 +782,11 @@
 		"oA": 1,
 		"oAP": "/assets/css/_colors.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/_fonts.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -789,11 +795,11 @@
 		"oA": 1,
 		"oAP": "/assets/css/_fonts.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/_icons.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -802,11 +808,11 @@
 		"oA": 1,
 		"oAP": "/assets/css/_icons.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/_layout.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -815,11 +821,11 @@
 		"oA": 1,
 		"oAP": "/assets/css/_layout.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/_lightgallery.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -828,11 +834,11 @@
 		"oA": 1,
 		"oAP": "/assets/css/_lightgallery.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/_loading.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -841,11 +847,11 @@
 		"oA": 1,
 		"oAP": "/assets/css/_loading.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/_settings.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -854,11 +860,11 @@
 		"oA": 1,
 		"oAP": "/assets/css/_settings.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/_transitions.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -867,11 +873,11 @@
 		"oA": 1,
 		"oAP": "/assets/css/_transitions.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/_typography.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -880,11 +886,11 @@
 		"oA": 1,
 		"oAP": "/assets/css/_typography.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/_underline.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -893,11 +899,11 @@
 		"oA": 1,
 		"oAP": "/assets/css/_underline.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/app.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -906,11 +912,11 @@
 		"oA": 0,
 		"oAP": "/assets/css/app.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/_base.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -919,11 +925,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/css/_base.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/hamburgers.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -932,11 +938,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/css/hamburgers.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_3dx-r.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -945,11 +951,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_3dx-r.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_3dx.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -958,11 +964,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_3dx.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_3dy-r.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -971,11 +977,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_3dy-r.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_3dy.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -984,11 +990,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_3dy.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_arrow-r.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -997,11 +1003,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_arrow-r.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_arrow.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1010,11 +1016,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_arrow.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_arrowalt-r.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1023,11 +1029,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_arrowalt-r.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_arrowalt.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1036,11 +1042,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_arrowalt.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_boring.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1049,11 +1055,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_boring.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_collapse-r.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1062,11 +1068,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_collapse-r.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_collapse.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1075,11 +1081,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_collapse.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_elastic-r.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1088,11 +1094,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_elastic-r.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_elastic.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1101,11 +1107,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_elastic.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_emphatic-r.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1114,11 +1120,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_emphatic-r.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_emphatic.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1127,11 +1133,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_emphatic.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_slider-r.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1140,11 +1146,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_slider-r.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_slider.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1153,11 +1159,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_slider.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_spin-r.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1166,11 +1172,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_spin-r.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_spin.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1179,11 +1185,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_spin.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_spring-r.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1192,11 +1198,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_spring-r.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_spring.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1205,11 +1211,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_spring.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_squeeze.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1218,11 +1224,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_squeeze.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_stand-r.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1231,11 +1237,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_stand-r.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_stand.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1244,11 +1250,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_stand.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_vortex-r.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1257,11 +1263,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_vortex-r.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/types/_vortex.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1270,11 +1276,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/hamburgers/css/_vortex.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/scroll/_animations.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1283,11 +1289,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/css/_animations.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/scroll/_core.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1296,11 +1302,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/css/_core.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/scroll/_easing.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1309,11 +1315,11 @@
 		"oA": 1,
 		"oAP": "/assets/scss/css/_easing.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/scss/scroll/aos.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1322,7 +1328,7 @@
 		"oA": 1,
 		"oAP": "/assets/scss/css/aos.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/book.md": {
@@ -1353,9 +1359,9 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"hM": 0,
-		"oA": 2,
-		"oAP": "/gallery.md",
-		"oF": 1,
+		"oA": 0,
+		"oAP": "/gallery.html",
+		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
 		"pHT": 0,
@@ -1431,6 +1437,61 @@
 		"oAP": "/build/node_modules",
 		"oF": 0
 		},
+	"/node_modules/aos/dist/aos.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/aos/dist/min/aos-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/node_modules/flickity/js/index.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/flickity/js/min/index-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/node_modules/foundation-sites/dist/js/foundation.esm.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/foundation-sites/dist/js/min/foundation.esm-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/node_modules/jquery/dist/jquery.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/jquery/dist/min/jquery-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/node_modules/mapbox-gl/dist/mapbox-gl.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/mapbox-gl/dist/min/mapbox-gl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"/package-lock.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -1475,9 +1536,9 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"hM": 0,
-		"oA": 2,
-		"oAP": "/README.md",
-		"oF": 1,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -1540,9 +1601,9 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"hM": 0,
-		"oA": 2,
-		"oAP": "/terms.md",
-		"oF": 1,
+		"oA": 0,
+		"oAP": "/terms.html",
+		"oF": 0,
 		"oFM": 9,
 		"oS": 0,
 		"pHT": 0,
@@ -3563,8 +3624,8 @@
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
@@ -3634,7 +3695,7 @@
 	"rollupExternals": "",
 	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
 	"rollupTreeshakingEnabled": 1,
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules",
+	"skippedFoldersString": "/storage/framework/sessions,node_modules,_logs,logs,log,_cache,cache,_site",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"tsAllowSyntheticDefaultImports": 0,

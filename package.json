@@ -7,6 +7,11 @@
   "license": "UNLICENSED",
   "repository": {},
   "dependencies": {
-    "foundation-sites": "^6.6.1"
+    "aos": "^2.3.4",
+    "flickity": "^2.2.1",
+    "foundation-sites": "^6.6.1",
+    "jquery": "^3.4.1",
+    "mapbox-gl": "^1.8.0",
+    "what-input": "^5.2.6"
   }
 }
