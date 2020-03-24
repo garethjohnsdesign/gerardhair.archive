@@ -2,14 +2,31 @@
 layout: default
 ---
 
-<!-- Carousel -->
+<!-- Slider main container -->
 <div class="grid-x grid-padding-x grid-padding-y align-center">
 	<div class="small-12 medium-10 large-12 cell">
-    <div class="carousel">
-    {% for image in page.images %}
-      <img src="{{image}}">
-    {% endfor %}
+
+    <div class="swiper-container">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper">
+            <!-- Slides -->
+    
+        {% for image in page.images %}
+          <div class="swiper-slide"><img src="{{image}}"></div>
+        {% endfor %}
+        </div>
+        <!-- If we need pagination -->
+        <div class="swiper-pagination"></div>
+    
+        <!-- If we need navigation buttons -->
+<!--
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+-->
+    
+        <!-- If we need scrollbar -->
+<!--         <div class="swiper-scrollbar"></div> -->
     </div>
-	</div>
+
+  </div>
 </div>
-<!-- End Carousel -->
