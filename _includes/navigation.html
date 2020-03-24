@@ -1,11 +1,6 @@
-<!--
-<div data-sticky-container>
-<div class="navigation" data-sticky data-options="marginTop:0;" style="width:100%">
--->
-
 {% for entry in site.data.navigation %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 <!-- Navigation -->
-<div class="grid-x align-center navigation__logo text-center">
+<div class="grid-x grid-padding-x grid-padding-y margin-top-1 align-center navigation__logo text-center">
   <div class="shrink cell">
     <a href="/">
     {{site.title}}
@@ -50,12 +45,3 @@
 
 </div>
 <!-- End Navigation -->
-
-
-
-
-<!--
-</div>
-</div>
--->
-
