@@ -9,8 +9,11 @@ layout: compress
 {% include head.html %}
 <!-- End Head -->
 
-<body class="{{page.layout | slugify}} page">
-  
+<body class="{{page.layout | slugify}}">
+
+
+<div class="grid-y align-justify viewheight">
+
 {% if page.url == "/" %}
 <script>document.body.className += ' fade-out';</script>
 {% endif %}
@@ -19,19 +22,23 @@ layout: compress
 {% include navigation--mobile.html %}
 <!-- End Mobile Navigation --> 
 
+<div class="cell shrink">
 <!-- Navigation -->
 {% include navigation.html %}
 <!-- End Navigation -->
+</div>
 
+<div class="cell shrink">
 {{content}}
+</div>
 
-<!-- Sign-Up -->
-{% include sign-up.html %}
-<!-- End Sign-Up -->
-
+<div class="cell shrink">
 <!-- Footer -->
 {% include footer.html %}
 <!-- End Footer -->
+</div>
+
+</div>
 
 <!-- Scripts -->
 {% include scripts.html %}
