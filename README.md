@@ -1,4 +1,4 @@
-# Gerard Hair
+# Gerard Hair Archive
 
 Website for Gerard Hair. Please go to [www.gerardhair.com](http://gerardhair.com) in case you want to take a look at the website.
 
