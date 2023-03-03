@@ -10,7 +10,7 @@
     "aos": "^2.3.4",
     "foundation-sites": "^6.6.1",
     "jquery": "^3.4.1",
-    "mapbox-gl": "^1.8.0",
+    "mapbox-gl": "^1.13.3",
     "motion-ui": "^2.0.3",
     "swiper": "^5.3.1",
     "what-input": "^5.2.6"
